@@ -1,0 +1,152 @@
+body {
+	background: #fff;
+	color: #030D15;
+}
+
+a {
+	color: #030D15;
+}
+
+p {
+	color: #b5b8ba;
+}
+
+h3 {
+	color: #F4F9FC;
+}
+
+h5 {
+	color: #C72535;
+}
+
+h6 {
+	color: #fff;
+}
+
+button {
+	color: #fff;
+	background: #247CC0;
+}
+
+button:hover {
+	background: #577cc6;
+}
+
+.nav a:hover {
+	color: #575dc6;
+}
+
+.lending .text {
+	color: #247CC0;
+	background: rgba(36, 124, 192, 0.1);
+}
+
+.lending .old {
+	color: #030D15;
+	opacity: 50%;
+}
+
+.fonts {
+	background: #fff;
+}
+
+.text span {
+
+}
+
+ .black {
+	color: #030D15;
+	font-weight: 600;
+}
+
+.grey {
+	opacity: 60%;
+}
+
+.special .copter {
+	background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+}
+
+.copter a {
+	color: #F4F9FC;
+}
+
+.copter a:hover {
+	color: #1f7fff;
+}
+
+.about {
+	background: #F4F9FC;
+}
+
+.about .idea p {
+	color: #030D15;
+	opacity: 60%;
+}
+
+.product .chose a {
+	color: #030D15;
+}
+
+.product .chose a:first-child {
+	color: #C72535;
+}
+
+.product .chose a:hover {
+	color: #C72535;
+}
+
+.blocks p {
+	color: #030D15
+}
+
+.contact h3 {
+	color: #030D15;
+}
+
+.footer {
+	background: #030D15;
+}
+
+.footer a {
+	color: #b5b8ba;
+	opacity: 60%;
+}
+
+.footer p {
+	opacity: 60%;
+}
+
+a.wh {
+	color: #fff;
+	opacity: 1;
+}
+
+.set span {
+	color: #fff;
+}
+
+.footer a:hover {
+	opacity: 1;
+}
+
+.hover {
+	background: #fff;
+}
+
+.hovers {
+	background: #FAFAFA;
+}
+
+
+.light {
+	background: #C3D7E5;
+}
+
+.dark {
+	background: #15151D;
+}
+
+.blue {
+	background: #2F80ED;
+}
